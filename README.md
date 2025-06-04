@@ -4,7 +4,7 @@
 -  I’m currently learning ... C++
 -  I’m looking to collaborate on ... projects that have great ideas
 -  How to reach me ... dropshippingvalome@gmail.com
-- ⚡ Fun fact: ... ꒒ ০ ⌵ ୧ Art
+- ⚡ Fun fact: ... ꒒ ০ ⌵ ୧  Art
 
 <!---
 is-valome/is-valome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

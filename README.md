@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @is-valome
-- 👀 I’m interested in ... creating new stuffs out of nothing
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... projects that have great ideas
-- 📫 How to reach me ... dropshippingvalome@gmail.com
-- 😄 Pronouns: ... he/him
+-  𓆝 𓆟 𓆞 𓆝 𓆟
+-  Hi, I’m Valentine
+-  I’m interested in ... creating new stuffs out of nothing
+-  I’m currently learning ... C++
+-  I’m looking to collaborate on ... projects that have great ideas
+-  How to reach me ... dropshippingvalome@gmail.com
+-  Pronouns: ... he/him
 - ⚡ Fun fact: ... Love Art
 
 <!---
